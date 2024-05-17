@@ -1,0 +1,320 @@
+Add:         1 A7982   Anaplasmosis [A. phagocytophilum]                            Anaplasmosis [A. phagocytophilum]
+Add:         1 C563    Malignant neoplasm of bilateral ovaries                      Malignant neoplasm of bilateral ovaries
+Add:         1 C7963   Secondary malignant neoplasm of bilateral ovaries            Secondary malignant neoplasm of bilateral ovaries
+Add:         1 C847A   Anaplastic large cell lymphoma, ALK-negative, breast         Anaplastic large cell lymphoma, ALK-negative, breast
+Delete:      1 D552    Anemia due to disorders of glycolytic enzymes                Anemia due to disorders of glycolytic enzymes
+Add:         0 D552    Anemia due to disorders of glycolytic enzymes                Anemia due to disorders of glycolytic enzymes
+Add:         1 D5521   Anemia due to pyruvate kinase deficiency                     Anemia due to pyruvate kinase deficiency
+Add:         1 D5529   Anemia due to other disorders of glycolytic enzymes          Anemia due to other disorders of glycolytic enzymes
+Add:         0 D7583   Thrombocytosis                                               Thrombocytosis
+Add:         1 D75838  Other thrombocytosis                                         Other thrombocytosis
+Add:         1 D75839  Thrombocytosis, unspecified                                  Thrombocytosis, unspecified
+Add:         1 D8944   Hereditary alpha tryptasemia                                 Hereditary alpha tryptasemia
+Add:         1 E75244  Niemann-Pick disease type A/B                                Niemann-Pick disease type A/B
+Revise from: 0 F32     Major depressive disorder, single episode                    Major depressive disorder, single episode
+Revise to:   0 F32     Depressive episode                                           Depressive episode
+Add:         1 F32A    Depression, unspecified                                      Depression, unspecified
+Delete:      1 F78     Other intellectual disabilities                              Other intellectual disabilities
+Add:         0 F78     Other intellectual disabilities                              Other intellectual disabilities
+Add:         0 F78A    Other genetic related intellectual disabilities              Other genetic related intellectual disabilities
+Add:         1 F78A1   SYNGAP1-related intellectual disability                      SYNGAP1-related intellectual disability
+Add:         1 F78A9   Other genetic related intellectual disability                Other genetic related intellectual disability
+Add:         1 G0482   Acute flaccid myelitis                                       Acute flaccid myelitis
+Add:         1 G4486   Cervicogenic headache                                        Cervicogenic headache
+Revise from: 1 G7120   Congenital myopathy, unspecifed                              Congenital myopathy, unspecifed
+Revise to:   1 G7120   Congenital myopathy, unspecified                             Congenital myopathy, unspecified
+Delete:      1 G92     Toxic encephalopathy                                         Toxic encephalopathy
+Add:         0 G92     Toxic encephalopathy                                         Toxic encephalopathy
+Add:         0 G920    Immune effector cell-associated neurotoxicity syndrome       Immune effector cell-associated neurotoxicity syndrome
+Add:         1 G9200   Immune effor cell-associated neurotoxicity synd, grade unsp  Immune effector cell-associated neurotoxicity syndrome, grade unspecified
+Add:         1 G9201   Immune effector cell-associated neurotoxicity synd, grade 1  Immune effector cell-associated neurotoxicity syndrome, grade 1
+Add:         1 G9202   Immune effector cell-associated neurotoxicity synd, grade 2  Immune effector cell-associated neurotoxicity syndrome, grade 2
+Add:         1 G9203   Immune effector cell-associated neurotoxicity synd, grade 3  Immune effector cell-associated neurotoxicity syndrome, grade 3
+Add:         1 G9204   Immune effector cell-associated neurotoxicity synd, grade 4  Immune effector cell-associated neurotoxicity syndrome, grade 4
+Add:         1 G9205   Immune effector cell-associated neurotoxicity synd, grade 5  Immune effector cell-associated neurotoxicity syndrome, grade 5
+Add:         1 G928    Other toxic encephalopathy                                   Other toxic encephalopathy
+Add:         1 G929    Unspecified toxic encephalopathy                             Unspecified toxic encephalopathy
+Add:         1 I5A     Non-ischemic myocardial injury (non-traumatic)               Non-ischemic myocardial injury (non-traumatic)
+Delete:      1 K228    Other specified diseases of esophagus                        Other specified diseases of esophagus
+Add:         0 K228    Other specified diseases of esophagus                        Other specified diseases of esophagus
+Add:         1 K2281   Esophageal polyp                                             Esophageal polyp
+Add:         1 K2282   Esophagogastric junction polyp                               Esophagogastric junction polyp
+Add:         1 K2289   Other specified disease of esophagus                         Other specified disease of esophagus
+Add:         0 K31A    Gastric intestinal metaplasia                                Gastric intestinal metaplasia
+Add:         1 K31A0   Gastric intestinal metaplasia, unspecified                   Gastric intestinal metaplasia, unspecified
+Add:         0 K31A1   Gastric intestinal metaplasia without dysplasia              Gastric intestinal metaplasia without dysplasia
+Add:         1 K31A11  Gastric intestnl metaplasia without dysplasia, w the antrum  Gastric intestinal metaplasia without dysplasia, involving the antrum
+Add:         1 K31A12  Gastr intestnl metaplasia w/o dysplasia, w the body (corpus) Gastric intestinal metaplasia without dysplasia, involving the body (corpus)
+Add:         1 K31A13  Gastric intestnl metaplasia without dysplasia, w the fundus  Gastric intestinal metaplasia without dysplasia, involving the fundus
+Add:         1 K31A14  Gastric intestnl metaplasia without dysplasia, w the cardia  Gastric intestinal metaplasia without dysplasia, involving the cardia
+Add:         1 K31A15  Gastric intestnl metaplasia without dysplasia, w mult sites  Gastric intestinal metaplasia without dysplasia, involving multiple sites
+Add:         1 K31A19  Gastric intestinal metaplasia without dysplasia, unsp site   Gastric intestinal metaplasia without dysplasia, unspecified site
+Add:         0 K31A2   Gastric intestinal metaplasia with dysplasia                 Gastric intestinal metaplasia with dysplasia
+Add:         1 K31A21  Gastric intestinal metaplasia with low grade dysplasia       Gastric intestinal metaplasia with low grade dysplasia
+Add:         1 K31A22  Gastric intestinal metaplasia with high grade dysplasia      Gastric intestinal metaplasia with high grade dysplasia
+Add:         1 K31A29  Gastric intestinal metaplasia with dysplasia, unspecified    Gastric intestinal metaplasia with dysplasia, unspecified
+Add:         0 L24A    Irritant cntct derm d/t friction or cntct with body fluids   Irritant contact dermatitis due to friction or contact with body fluids
+Add:         1 L24A0   Irritant cntct derm d/t friction or cntct w body fluids,unsp Irritant contact dermatitis due to friction or contact with body fluids, unspecified
+Add:         1 L24A1   Irritant contact dermatitis due to saliva                    Irritant contact dermatitis due to saliva
+Add:         1 L24A2   Irritant cntct derm d/t fecal, urinry or dual incontinence   Irritant contact dermatitis due to fecal, urinary or dual incontinence
+Add:         1 L24A9   Irritant cntct derm due friction or cntct w oth body fluids  Irritant contact dermatitis due friction or contact with other specified body fluids
+Add:         0 L24B    Irritant contact dermatitis related to stoma or fistula      Irritant contact dermatitis related to stoma or fistula
+Add:         1 L24B0   Irritant contact dermatitis related to unsp stoma or fistula Irritant contact dermatitis related to unspecified stoma or fistula
+Add:         1 L24B1   Irritant contact derm related to digestive stoma or fistula  Irritant contact dermatitis related to digestive stoma or fistula
+Add:         1 L24B2   Irritant contact dermatitis related to resp stoma or fistula Irritant contact dermatitis related to respiratory stoma or fistula
+Add:         1 L24B3   Irritant cntct derm rel to fecal or urinary stoma or fistula Irritant contact dermatitis related to fecal or urinary stoma or fistula
+Delete:      1 M311    Thrombotic microangiopathy                                   Thrombotic microangiopathy
+Add:         0 M311    Thrombotic microangiopathy                                   Thrombotic microangiopathy
+Add:         1 M3110   Thrombotic microangiopathy, unspecified                      Thrombotic microangiopathy, unspecified
+Add:         1 M3111   Hematpoetc stem cell txpltation-assoc throm microangiopathy  Hematopoietic stem cell transplantation-associated thrombotic microangiopathy [HSCT-TMA]
+Add:         1 M3119   Other thrombotic microangiopathy                             Other thrombotic microangiopathy
+Revise from: 0 M350    Sicca syndrome [Sjogren]                                     Sicca syndrome [Sjogren]
+Revise to:   0 M350    Sjogren syndrome                                             Sjogren syndrome
+Revise from: 1 M3500   Sicca syndrome, unspecified                                  Sicca syndrome, unspecified
+Revise to:   1 M3500   Sjogren syndrome, unspecified                                Sjogren syndrome, unspecified
+Revise from: 1 M3501   Sicca syndrome with keratoconjunctivitis                     Sicca syndrome with keratoconjunctivitis
+Revise to:   1 M3501   Sjogren syndrome with keratoconjunctivitis                   Sjogren syndrome with keratoconjunctivitis
+Revise from: 1 M3502   Sicca syndrome with lung involvement                         Sicca syndrome with lung involvement
+Revise to:   1 M3502   Sjogren syndrome with lung involvement                       Sjogren syndrome with lung involvement
+Revise from: 1 M3503   Sicca syndrome with myopathy                                 Sicca syndrome with myopathy
+Revise to:   1 M3503   Sjogren syndrome with myopathy                               Sjogren syndrome with myopathy
+Revise from: 1 M3504   Sicca syndrome with tubulo-interstitial nephropathy          Sicca syndrome with tubulo-interstitial nephropathy
+Revise to:   1 M3504   Sjogren syndrome with tubulo-interstitial nephropathy        Sjogren syndrome with tubulo-interstitial nephropathy
+Add:         1 M3505   Sjogren syndrome with inflammatory arthritis                 Sjogren syndrome with inflammatory arthritis
+Add:         1 M3506   Sjogren syndrome with peripheral nervous system involvement  Sjogren syndrome with peripheral nervous system involvement
+Add:         1 M3507   Sjogren syndrome with central nervous system involvement     Sjogren syndrome with central nervous system involvement
+Add:         1 M3508   Sjogren syndrome with gastrointestinal involvement           Sjogren syndrome with gastrointestinal involvement
+Revise from: 1 M3509   Sicca syndrome with other organ involvement                  Sicca syndrome with other organ involvement
+Revise to:   1 M3509   Sjogren syndrome with other organ involvement                Sjogren syndrome with other organ involvement
+Add:         1 M350A   Sjogren syndrome with glomerular disease                     Sjogren syndrome with glomerular disease
+Add:         1 M350B   Sjogren syndrome with vasculitis                             Sjogren syndrome with vasculitis
+Add:         1 M350C   Sjogren syndrome with dental involvement                     Sjogren syndrome with dental involvement
+Add:         0 M45A    Non-radiographic axial spondyloarthritis                     Non-radiographic axial spondyloarthritis
+Add:         1 M45A0   Non-radiographic axial spondyloarthritis unsp site in spin   Non-radiographic axial spondyloarthritis of unspecified sites in spine
+Add:         1 M45A1   Non-radiographic axial spondyloarthritis occipt-atlan-ax rgn Non-radiographic axial spondyloarthritis of occipito-atlanto-axial region
+Add:         1 M45A2   Non-radiographic axial spondyloarthritis of cervical region  Non-radiographic axial spondyloarthritis of cervical region
+Add:         1 M45A3   Non-radiographic axial spondyloarthritis of cervicothor rgn  Non-radiographic axial spondyloarthritis of cervicothoracic region
+Add:         1 M45A4   Non-radiographic axial spondyloarthritis of thoracic region  Non-radiographic axial spondyloarthritis of thoracic region
+Add:         1 M45A5   Non-radiographic axial spondyloarthritis of thrclm region    Non-radiographic axial spondyloarthritis of thoracolumbar region
+Add:         1 M45A6   Non-radiographic axial spondyloarthritis of lumbar region    Non-radiographic axial spondyloarthritis of lumbar region
+Add:         1 M45A7   Non-radiographic axial spondyloarthritis of lumbosacr region Non-radiographic axial spondyloarthritis of lumbosacral region
+Add:         1 M45A8   Non-radiographic axial spondyloarthritis sacr/sacrocygl rgn  Non-radiographic axial spondyloarthritis of sacral and sacrococcygeal region
+Add:         1 M45AB   Non-radiographic axial spondyloarthritis mult site in spine  Non-radiographic axial spondyloarthritis of multiple sites in spine
+Delete:      1 M545    Low back pain                                                Low back pain
+Add:         0 M545    Low back pain                                                Low back pain
+Add:         1 M5450   Low back pain, unspecified                                   Low back pain, unspecified
+Add:         1 M5451   Vertebrogenic low back pain                                  Vertebrogenic low back pain
+Add:         1 M5459   Other low back pain                                          Other low back pain
+Add:         1 P0082   NB aff by (positive) matern group B strep (GBS) colonization Newborn affected by (positive) maternal group B streptococcus (GBS) colonization
+Delete:      1 P09     Abnormal findings on neonatal screening                      Abnormal findings on neonatal screening
+Add:         0 P09     Abnormal findings on neonatal screening                      Abnormal findings on neonatal screening
+Add:         1 P091    Abn findings on neonatal screen for inborn errors of metab   Abnormal findings on neonatal screening for inborn errors of metabolism
+Add:         1 P092    Abnormal findings on neonatal screen for congen endo disease Abnormal findings on neonatal screening for congenital endocrine disease
+Add:         1 P093    Abn find on neonatal screen for congen hematologic disord    Abnormal findings on neonatal screening for congenital hematologic disorders
+Add:         1 P094    Abnormal findings on neonatal screening for cystic fibrosis  Abnormal findings on neonatal screening for cystic fibrosis
+Add:         1 P095    Abn find on neonatal screen for critical congen heart dis    Abnormal findings on neonatal screening for critical congenital heart disease
+Add:         1 P096    Abn findings on neonatal screen for neonatal hearing loss    Abnormal findings on neonatal screening for neonatal hearing loss
+Add:         1 P098    Other abnormal findings on neonatal screening                Other abnormal findings on neonatal screening
+Add:         1 P099    Abnormal findings on neonatal screening, unspecified         Abnormal findings on neonatal screening, unspecified
+Delete:      1 R05     Cough                                                        Cough
+Add:         0 R05     Cough                                                        Cough
+Add:         1 R051    Acute cough                                                  Acute cough
+Add:         1 R052    Subacute cough                                               Subacute cough
+Add:         1 R053    Chronic cough                                                Chronic cough
+Add:         1 R054    Cough syncope                                                Cough syncope
+Add:         1 R058    Other specified cough                                        Other specified cough
+Add:         1 R059    Cough, unspecified                                           Cough, unspecified
+Delete:      1 R358    Other polyuria                                               Other polyuria
+Add:         0 R358    Other polyuria                                               Other polyuria
+Add:         1 R3581   Nocturnal polyuria                                           Nocturnal polyuria
+Add:         1 R3589   Other polyuria                                               Other polyuria
+Add:         1 R4588   Nonsuicidal self-harm                                        Nonsuicidal self-harm
+Delete:      1 R633    Feeding difficulties                                         Feeding difficulties
+Add:         0 R633    Feeding difficulties                                         Feeding difficulties
+Add:         1 R6330   Feeding difficulties, unspecified                            Feeding difficulties, unspecified
+Add:         1 R6331   Pediatric feeding disorder, acute                            Pediatric feeding disorder, acute
+Add:         1 R6332   Pediatric feeding disorder, chronic                          Pediatric feeding disorder, chronic
+Add:         1 R6339   Other feeding difficulties                                   Other feeding difficulties
+Add:         1 R7983   Abnormal findings of blood amino-acid level                  Abnormal findings of blood amino-acid level
+Add:         0 S06A    Traumatic brain compression and herniation                   Traumatic brain compression and herniation
+Add:         0 S06A0   Traumatic brain compression without herniation               Traumatic brain compression without herniation
+Add:         1 S06A0XA Traumatic brain compression without herniation, init         Traumatic brain compression without herniation, initial encounter
+Add:         1 S06A0XD Traumatic brain compression without herniation, subs         Traumatic brain compression without herniation, subsequent encounter
+Add:         1 S06A0XS Traumatic brain compression without herniation, sequela      Traumatic brain compression without herniation, sequela
+Add:         0 S06A1   Traumatic brain compression with herniation                  Traumatic brain compression with herniation
+Add:         1 S06A1XA Traumatic brain compression with herniation, init            Traumatic brain compression with herniation, initial encounter
+Add:         1 S06A1XD Traumatic brain compression with herniation, subs            Traumatic brain compression with herniation, subsequent encounter
+Add:         1 S06A1XS Traumatic brain compression with herniation, sequela         Traumatic brain compression with herniation, sequela
+Add:         0 T4071   Cannabis (derivatives)                                       Poisoning by, adverse effect of and underdosing of cannabis (derivatives)
+Add:         0 T40711  Poisoning by cannabis, accidental (unintentional)            Poisoning by cannabis, accidental (unintentional)
+Add:         1 T40711A Poisoning by cannabis, accidental (unintentional), init      Poisoning by cannabis, accidental (unintentional), initial encounter
+Add:         1 T40711D Poisoning by cannabis, accidental (unintentional), subs      Poisoning by cannabis, accidental (unintentional), subsequent encounter
+Add:         1 T40711S Poisoning by cannabis, accidental (unintentional), sequela   Poisoning by cannabis, accidental (unintentional), sequela
+Add:         0 T40712  Poisoning by cannabis, intentional self-harm                 Poisoning by cannabis, intentional self-harm
+Add:         1 T40712A Poisoning by cannabis, self-harm, initial encounter          Poisoning by cannabis, intentional self-harm, initial encounter
+Add:         1 T40712D Poisoning by cannabis, self-harm, subsequent encounter       Poisoning by cannabis, intentional self-harm, subsequent encounter
+Add:         1 T40712S Poisoning by cannabis, intentional self-harm, sequela        Poisoning by cannabis, intentional self-harm, sequela
+Add:         0 T40713  Poisoning by cannabis, assault                               Poisoning by cannabis, assault
+Add:         1 T40713A Poisoning by cannabis, assault, initial encounter            Poisoning by cannabis, assault, initial encounter
+Add:         1 T40713D Poisoning by cannabis, assault, subsequent encounter         Poisoning by cannabis, assault, subsequent encounter
+Add:         1 T40713S Poisoning by cannabis, assault, sequela                      Poisoning by cannabis, assault, sequela
+Add:         0 T40714  Poisoning by cannabis, undetermined                          Poisoning by cannabis, undetermined
+Add:         1 T40714A Poisoning by cannabis, undetermined, initial encounter       Poisoning by cannabis, undetermined, initial encounter
+Add:         1 T40714D Poisoning by cannabis, undetermined, subsequent encounter    Poisoning by cannabis, undetermined, subsequent encounter
+Add:         1 T40714S Poisoning by cannabis, undetermined, sequela                 Poisoning by cannabis, undetermined, sequela
+Add:         0 T40715  Adverse effect of cannabis                                   Adverse effect of cannabis
+Add:         1 T40715A Adverse effect of cannabis, initial encounter                Adverse effect of cannabis, initial encounter
+Add:         1 T40715D Adverse effect of cannabis, subsequent encounter             Adverse effect of cannabis, subsequent encounter
+Add:         1 T40715S Adverse effect of cannabis, sequela                          Adverse effect of cannabis, sequela
+Add:         0 T40716  Underdosing of cannabis                                      Underdosing of cannabis
+Add:         1 T40716A Underdosing of cannabis, initial encounter                   Underdosing of cannabis, initial encounter
+Add:         1 T40716D Underdosing of cannabis, subsequent encounter                Underdosing of cannabis, subsequent encounter
+Add:         1 T40716S Underdosing of cannabis, sequela                             Underdosing of cannabis, sequela
+Add:         0 T4072   Synthetic cannabinoids                                       Poisoning by, adverse effect of and underdosing of synthetic cannabinoids
+Add:         0 T40721  Poisoning by synthetic cannabinoids, accidental              Poisoning by synthetic cannabinoids, accidental (unintentional)
+Add:         1 T40721A Poisoning by synthetic cannabinoids, accidental, init        Poisoning by synthetic cannabinoids, accidental (unintentional), initial encounter
+Add:         1 T40721D Poisoning by synthetic cannabinoids, accidental, subs        Poisoning by synthetic cannabinoids, accidental (unintentional), subsequent encounter
+Add:         1 T40721S Poisoning by synthetic cannabinoids, accidental, sequela     Poisoning by synthetic cannabinoids, accidental (unintentional), sequela
+Add:         0 T40722  Poisoning by synthetic cannabinoids, intentional self-harm   Poisoning by synthetic cannabinoids, intentional self-harm
+Add:         1 T40722A Poisoning by synthetic cannabinoids, self-harm, init         Poisoning by synthetic cannabinoids, intentional self-harm, initial encounter
+Add:         1 T40722D Poisoning by synthetic cannabinoids, self-harm, subs         Poisoning by synthetic cannabinoids, intentional self-harm, subsequent encounter
+Add:         1 T40722S Poisoning by synthetic cannabinoids, self-harm, sequela      Poisoning by synthetic cannabinoids, intentional self-harm, sequela
+Add:         0 T40723  Poisoning by synthetic cannabinoids, assault                 Poisoning by synthetic cannabinoids, assault
+Add:         1 T40723A Poisoning by synthetic cannabinoids, assault, init           Poisoning by synthetic cannabinoids, assault, initial encounter
+Add:         1 T40723D Poisoning by synthetic cannabinoids, assault, subs           Poisoning by synthetic cannabinoids, assault, subsequent encounter
+Add:         1 T40723S Poisoning by synthetic cannabinoids, assault, sequela        Poisoning by synthetic cannabinoids, assault, sequela
+Add:         0 T40724  Poisoning by synthetic cannabinoids, undetermined            Poisoning by synthetic cannabinoids, undetermined
+Add:         1 T40724A Poisoning by synthetic cannabinoids, undetermined, init      Poisoning by synthetic cannabinoids, undetermined, initial encounter
+Add:         1 T40724D Poisoning by synthetic cannabinoids, undetermined, subs      Poisoning by synthetic cannabinoids, undetermined, subsequent encounter
+Add:         1 T40724S Poisoning by synthetic cannabinoids, undetermined, sequela   Poisoning by synthetic cannabinoids, undetermined, sequela
+Add:         0 T40725  Adverse effect of synthetic cannabinoids                     Adverse effect of synthetic cannabinoids
+Add:         1 T40725A Adverse effect of synthetic cannabinoids, initial encounter  Adverse effect of synthetic cannabinoids, initial encounter
+Add:         1 T40725D Adverse effect of synthetic cannabinoids, subs               Adverse effect of synthetic cannabinoids, subsequent encounter
+Add:         1 T40725S Adverse effect of synthetic cannabinoids, sequela            Adverse effect of synthetic cannabinoids, sequela
+Add:         0 T40726  Underdosing of synthetic cannabinoids                        Underdosing of synthetic cannabinoids
+Add:         1 T40726A Underdosing of synthetic cannabinoids, initial encounter     Underdosing of synthetic cannabinoids, initial encounter
+Add:         1 T40726D Underdosing of synthetic cannabinoids, subsequent encounter  Underdosing of synthetic cannabinoids, subsequent encounter
+Add:         1 T40726S Underdosing of synthetic cannabinoids, sequela               Underdosing of synthetic cannabinoids, sequela
+Delete:      0 T407X   Cannabis (derivatives)                                       Poisoning by, adverse effect of and underdosing of cannabis (derivatives)
+Delete:      0 T407X1  Poisoning by cannabis (derivatives), accidental              Poisoning by cannabis (derivatives), accidental (unintentional)
+Delete:      1 T407X1A Poisoning by cannabis (derivatives), accidental, init        Poisoning by cannabis (derivatives), accidental (unintentional), initial encounter
+Delete:      1 T407X1D Poisoning by cannabis (derivatives), accidental, subs        Poisoning by cannabis (derivatives), accidental (unintentional), subsequent encounter
+Delete:      1 T407X1S Poisoning by cannabis (derivatives), accidental, sequela     Poisoning by cannabis (derivatives), accidental (unintentional), sequela
+Delete:      0 T407X2  Poisoning by cannabis (derivatives), intentional self-harm   Poisoning by cannabis (derivatives), intentional self-harm
+Delete:      1 T407X2A Poisoning by cannabis (derivatives), self-harm, init         Poisoning by cannabis (derivatives), intentional self-harm, initial encounter
+Delete:      1 T407X2D Poisoning by cannabis (derivatives), self-harm, subs         Poisoning by cannabis (derivatives), intentional self-harm, subsequent encounter
+Delete:      1 T407X2S Poisoning by cannabis (derivatives), self-harm, sequela      Poisoning by cannabis (derivatives), intentional self-harm, sequela
+Delete:      0 T407X3  Poisoning by cannabis (derivatives), assault                 Poisoning by cannabis (derivatives), assault
+Delete:      1 T407X3A Poisoning by cannabis (derivatives), assault, init encntr    Poisoning by cannabis (derivatives), assault, initial encounter
+Delete:      1 T407X3D Poisoning by cannabis (derivatives), assault, subs encntr    Poisoning by cannabis (derivatives), assault, subsequent encounter
+Delete:      1 T407X3S Poisoning by cannabis (derivatives), assault, sequela        Poisoning by cannabis (derivatives), assault, sequela
+Delete:      0 T407X4  Poisoning by cannabis (derivatives), undetermined            Poisoning by cannabis (derivatives), undetermined
+Delete:      1 T407X4A Poisoning by cannabis (derivatives), undetermined, init      Poisoning by cannabis (derivatives), undetermined, initial encounter
+Delete:      1 T407X4D Poisoning by cannabis (derivatives), undetermined, subs      Poisoning by cannabis (derivatives), undetermined, subsequent encounter
+Delete:      1 T407X4S Poisoning by cannabis (derivatives), undetermined, sequela   Poisoning by cannabis (derivatives), undetermined, sequela
+Delete:      0 T407X5  Adverse effect of cannabis (derivatives)                     Adverse effect of cannabis (derivatives)
+Delete:      1 T407X5A Adverse effect of cannabis (derivatives), initial encounter  Adverse effect of cannabis (derivatives), initial encounter
+Delete:      1 T407X5D Adverse effect of cannabis (derivatives), subs encntr        Adverse effect of cannabis (derivatives), subsequent encounter
+Delete:      1 T407X5S Adverse effect of cannabis (derivatives), sequela            Adverse effect of cannabis (derivatives), sequela
+Delete:      0 T407X6  Underdosing of cannabis (derivatives)                        Underdosing of cannabis (derivatives)
+Delete:      1 T407X6A Underdosing of cannabis (derivatives), initial encounter     Underdosing of cannabis (derivatives), initial encounter
+Delete:      1 T407X6D Underdosing of cannabis (derivatives), subsequent encounter  Underdosing of cannabis (derivatives), subsequent encounter
+Delete:      1 T407X6S Underdosing of cannabis (derivatives), sequela               Underdosing of cannabis (derivatives), sequela
+Revise from: 0 T6361   Toxic effect of contact with Portugese Man-o-war             Toxic effect of contact with Portugese Man-o-war
+Revise to:   0 T6361   Toxic effect of contact with Portuguese Man-o-war            Toxic effect of contact with Portuguese Man-o-war
+Revise from: 0 T63611  Toxic effect of contact w Portugese Man-o-war, accidental    Toxic effect of contact with Portugese Man-o-war, accidental (unintentional)
+Revise to:   0 T63611  Toxic effect of contact with Portuguese Man-o-war, acc       Toxic effect of contact with Portuguese Man-o-war, accidental (unintentional)
+Revise from: 1 T63611A Toxic effect of contact w Portugese Man-o-war, acc, init     Toxic effect of contact with Portugese Man-o-war, accidental (unintentional), initial encounter
+Revise to:   1 T63611A Toxic effect of cntct with Portuguese Man-o-war, acc, init   Toxic effect of contact with Portuguese Man-o-war, accidental (unintentional), initial encounter
+Revise from: 1 T63611D Toxic effect of contact w Portugese Man-o-war, acc, subs     Toxic effect of contact with Portugese Man-o-war, accidental (unintentional), subsequent encounter
+Revise to:   1 T63611D Toxic effect of cntct with Portuguese Man-o-war, acc, subs   Toxic effect of contact with Portuguese Man-o-war, accidental (unintentional), subsequent encounter
+Revise from: 1 T63611S Toxic effect of contact w Portugese Man-o-war, acc, sequela  Toxic effect of contact with Portugese Man-o-war, accidental (unintentional), sequela
+Revise to:   1 T63611S Toxic effect of cntct with Portuguese Man-o-war, acc, sqla   Toxic effect of contact with Portuguese Man-o-war, accidental (unintentional), sequela
+Revise from: 0 T63612  Toxic effect of contact w Portugese Man-o-war, self-harm     Toxic effect of contact with Portugese Man-o-war, intentional self-harm
+Revise to:   0 T63612  Toxic effect of contact with Portuguese Man-o-war, self-harm Toxic effect of contact with Portuguese Man-o-war, intentional self-harm
+Revise from: 1 T63612A Toxic effect of contact w Portugese Man-o-war, slf-hrm, init Toxic effect of contact with Portugese Man-o-war, intentional self-harm, initial encounter
+Revise to:   1 T63612A Toxic eff of cntct with Portuguese Man-o-war, slf-hrm, init  Toxic effect of contact with Portuguese Man-o-war, intentional self-harm, initial encounter
+Revise from: 1 T63612D Toxic effect of contact w Portugese Man-o-war, slf-hrm, subs Toxic effect of contact with Portugese Man-o-war, intentional self-harm, subsequent encounter
+Revise to:   1 T63612D Toxic eff of cntct with Portuguese Man-o-war, slf-hrm, subs  Toxic effect of contact with Portuguese Man-o-war, intentional self-harm, subsequent encounter
+Revise from: 1 T63612S Toxic effect of cntct w Portugese Man-o-war, slf-hrm, sqla   Toxic effect of contact with Portugese Man-o-war, intentional self-harm, sequela
+Revise to:   1 T63612S Toxic eff of cntct with Portuguese Man-o-war, slf-hrm, sqla  Toxic effect of contact with Portuguese Man-o-war, intentional self-harm, sequela
+Revise from: 0 T63613  Toxic effect of contact with Portugese Man-o-war, assault    Toxic effect of contact with Portugese Man-o-war, assault
+Revise to:   0 T63613  Toxic effect of contact with Portuguese Man-o-war, assault   Toxic effect of contact with Portuguese Man-o-war, assault
+Revise from: 1 T63613A Toxic effect of contact w Portugese Man-o-war, assault, init Toxic effect of contact with Portugese Man-o-war, assault, initial encounter
+Revise to:   1 T63613A Toxic effect of cntct with Portuguese Man-o-war, asslt, init Toxic effect of contact with Portuguese Man-o-war, assault, initial encounter
+Revise from: 1 T63613D Toxic effect of contact w Portugese Man-o-war, assault, subs Toxic effect of contact with Portugese Man-o-war, assault, subsequent encounter
+Revise to:   1 T63613D Toxic effect of cntct with Portuguese Man-o-war, asslt, subs Toxic effect of contact with Portuguese Man-o-war, assault, subsequent encounter
+Revise from: 1 T63613S Toxic effect of cntct w Portugese Man-o-war, asslt, sequela  Toxic effect of contact with Portugese Man-o-war, assault, sequela
+Revise to:   1 T63613S Toxic effect of cntct with Portuguese Man-o-war, asslt, sqla Toxic effect of contact with Portuguese Man-o-war, assault, sequela
+Revise from: 0 T63614  Toxic effect of contact w Portugese Man-o-war, undetermined  Toxic effect of contact with Portugese Man-o-war, undetermined
+Revise to:   0 T63614  Toxic effect of contact with Portuguese Man-o-war, undet     Toxic effect of contact with Portuguese Man-o-war, undetermined
+Revise from: 1 T63614A Toxic effect of contact w Portugese Man-o-war, undet, init   Toxic effect of contact with Portugese Man-o-war, undetermined, initial encounter
+Revise to:   1 T63614A Toxic effect of cntct with Portuguese Man-o-war, undet, init Toxic effect of contact with Portuguese Man-o-war, undetermined, initial encounter
+Revise from: 1 T63614D Toxic effect of contact w Portugese Man-o-war, undet, subs   Toxic effect of contact with Portugese Man-o-war, undetermined, subsequent encounter
+Revise to:   1 T63614D Toxic effect of cntct with Portuguese Man-o-war, undet, subs Toxic effect of contact with Portuguese Man-o-war, undetermined, subsequent encounter
+Revise from: 1 T63614S Toxic effect of cntct w Portugese Man-o-war, undet, sequela  Toxic effect of contact with Portugese Man-o-war, undetermined, sequela
+Revise to:   1 T63614S Toxic effect of cntct with Portuguese Man-o-war, undet, sqla Toxic effect of contact with Portuguese Man-o-war, undetermined, sequela
+Add:         0 T8082   Complication of immune effector cellular therapy             Complication of immune effector cellular therapy
+Add:         1 T8082XA Complication of immune effector cellular therapy, init       Complication of immune effector cellular therapy, initial encounter
+Add:         1 T8082XD Complication of immune effector cellular therapy, subs       Complication of immune effector cellular therapy, subsequent encounter
+Add:         1 T8082XS Complication of immune effector cellular therapy, sequela    Complication of immune effector cellular therapy, sequela
+Add:         0 U09     Post COVID-19 condition                                      Post COVID-19 condition
+Add:         1 U099    Post COVID-19 condition, unspecified                         Post COVID-19 condition, unspecified
+Add:         0 Y35899  Legal intervnt involving oth means, unsp person injured      Legal intervention involving other specified means, unspecified person injured
+Add:         1 Y35899A Legal intervnt w oth means, unsp person injured, init        Legal intervention involving other specified means, unspecified person injured, initial encounter
+Add:         1 Y35899D Legal intervnt w oth means, unsp person injured, subs        Legal intervention involving other specified means, unspecified person injured, subsequent encounter
+Add:         1 Y35899S Legal intervnt w oth means, unsp person injured, sequela     Legal intervention involving other specified means, unspecified person injured, sequela
+Add:         1 Z555    Less than a high school diploma                              Less than a high school diploma
+Add:         0 Z58     Problems related to physical environment                     Problems related to physical environment
+Add:         1 Z586    Inadequate drinking-water supply                             Inadequate drinking-water supply
+Delete:      1 Z590    Homelessness                                                 Homelessness
+Add:         0 Z590    Homelessness                                                 Homelessness
+Add:         1 Z5900   Homelessness unspecified                                     Homelessness unspecified
+Add:         1 Z5901   Sheltered homelessness                                       Sheltered homelessness
+Add:         1 Z5902   Unsheltered homelessness                                     Unsheltered homelessness
+Delete:      1 Z594    Lack of adequate food and safe drinking water                Lack of adequate food and safe drinking water
+Add:         0 Z594    Lack of adequate food                                        Lack of adequate food
+Add:         1 Z5941   Food insecurity                                              Food insecurity
+Add:         1 Z5948   Other specified lack of adequate food                        Other specified lack of adequate food
+Delete:      1 Z598    Other problems related to housing and economic circumstances Other problems related to housing and economic circumstances
+Add:         0 Z598    Other problems related to housing and economic circumstances Other problems related to housing and economic circumstances
+Add:         0 Z5981   Housing instability, housed                                  Housing instability, housed
+Add:         1 Z59811  Housing instability, housed, with risk of homelessness       Housing instability, housed, with risk of homelessness
+Add:         1 Z59812  Housing instability, housed, homelessness in past 12 months  Housing instability, housed, homelessness in past 12 months
+Add:         1 Z59819  Housing instability, housed unspecified                      Housing instability, housed unspecified
+Add:         1 Z5989   Other problems related to housing and economic circumstances Other problems related to housing and economic circumstances
+Add:         1 Z7185   Encounter for immunization safety counseling                 Encounter for immunization safety counseling
+Add:         1 Z91014  Allergy to mammalian meats                                   Allergy to mammalian meats
+Delete:      1 Z915    Personal history of self-harm                                Personal history of self-harm
+Add:         0 Z915    Personal history of self-harm                                Personal history of self-harm
+Add:         1 Z9151   Personal history of suicidal behavior                        Personal history of suicidal behavior
+Add:         1 Z9152   Personal history of nonsuicidal self-harm                    Personal history of nonsuicidal self-harm
+Revise from: 1 Z9225   Personal history of immunosupression therapy                 Personal history of immunosupression therapy
+Revise to:   1 Z9225   Personal history of immunosuppression therapy                Personal history of immunosuppression therapy
+Add:         0 Z9285   Personal history of cellular therapy                         Personal history of cellular therapy
+Add:         1 Z92850  Personal history of Chimeric Antigen Receptor T-cell therapy Personal history of Chimeric Antigen Receptor T-cell therapy
+Add:         1 Z92858  Personal history of other cellular therapy                   Personal history of other cellular therapy
+Add:         1 Z92859  Personal history of cellular therapy, unspecified            Personal history of cellular therapy, unspecified
+Add:         1 Z9286   Personal history of gene therapy                             Personal history of gene therapy
+
+Headers
+  22737 headers in icd10cm_order_2021jan.txt
+  22776 headers in icd10cm_order_2022.txt
+     46 additions
+      7 deletions
+      7 revisions
+of which
+      7 revisions to both long and short titles
+      0 revisions to long title only
+      0 revisions to short title only
+
+Codes
+  72621 codes in icd10cm_order_2021jan.txt
+  72748 codes in icd10cm_order_2022.txt
+    159 additions
+     32 deletions
+     20 revisions
+of which
+     20 revisions to both long and short titles
+      0 revisions to long title only
+      0 revisions to short title only
