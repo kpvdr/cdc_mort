@@ -1,0 +1,511 @@
+{
+    "title": "Mortality Multiple Cause-of-Death Public Use Record",
+    "year": 2022,
+    "fields": {
+        "record_type": {
+            "loc": 19,
+            "size": 1,
+            "type": "enum",
+            "values": [
+                "resident",
+                "non_resident"]
+            },
+        "resident_status": {
+            "loc": 20,
+            "size": 1,
+            "type": "enum",
+            "values": [
+                "residents",
+                "intrastate non-residents",
+                "interstate non-residents",
+                "foreign residents"]
+        },
+        "education": {
+            "loc": 63,
+            "size": 1,
+            "type": "enum",
+            "values": [
+                "8th grade or less",
+                "9 - 12th grade, no diploma",
+                "High school graduate or GED completed",
+                "Some college credit, but no degree",
+                "Associate degree",
+                "Bachelor’s degree",
+                "Master’s degree",
+                "Doctorate or professional degree",
+                "Unknown"
+            ]
+        },
+        "education_reporting_flag": {
+            "loc": 64,
+            "size": 1,
+            "type": "enum",
+            "values": [
+                "2003 revision of education item on certificate",
+                "no education item on certificate"
+            ]
+        },
+        "month_of_death": {
+            "loc": 65,
+            "size": 2,
+            "type": "enum",
+            "values": [
+                "January",
+                "February",
+                "March",
+                "April",
+                "May",
+                "June",
+                "July",
+                "August",
+                "September",
+                "October",
+                "November",
+                "December"
+            ]
+        },
+        "sex": {
+            "loc": 69,
+            "size": 1,
+            "type": "code",
+            "values": {
+                "M": "male",
+                "F": "female"
+            }
+        },
+        "detail_age_unit": {
+            "loc": 70,
+            "size": 1,
+            "type": "code",
+            "values": {
+                "1": "Years",
+                "2": "Months",
+                "4": "Days",
+                "5": "Hours",
+                "6": "Seconds",
+                "9": "Age not stated"
+            }
+        },
+        "detail_age_value": {
+            "loc": 71,
+            "size": 3,
+            "type": "integer"
+        },
+        "age_substitution_flag": {
+            "loc": 74,
+            "size": 1,
+            "type": "enum-blank",
+            "values": [
+                "Calculated age is not substituted for reported age",
+                "Calculated age is substituted for reported age"
+            ]
+        },
+        "age_recode_52": {
+            "loc": 75,
+            "size": 2,
+            "type": "enum",
+            "values": [
+                "Under 1 hour (includes not stated hours and minutes)",
+                "1 - 23 hours",
+                "1 day (includes not stated days)",
+                "2 days",
+                "3 days",
+                "4 days",
+                "5 days",
+                "6 days",
+                "7 - 13 days (includes not stated weeks)",
+                "14 - 20 days",
+                "21 - 27 days",
+                "1 month (includes not stated months)",
+                "2 months",
+                "3 months",
+                "4 months",
+                "5 months",
+                "6 months",
+                "7 months",
+                "8 months",
+                "9 months",
+                "10 months",
+                "11 months",
+                "1 year",
+                "2 years",
+                "3 years",
+                "4 years",
+                "5 - 9 years",
+                "10 - 14 years",
+                "15 - 19 years",
+                "20 - 24 years",
+                "25 - 29 years",
+                "30 - 34 years",
+                "35 - 39 years",
+                "40 - 44 years",
+                "45 - 49 years",
+                "50 - 54 years",
+                "55 - 59 years",
+                "60 - 64 years",
+                "65 - 69 years",
+                "70 - 74 years",
+                "75 - 79 years",
+                "80 - 84 years",
+                "85 - 89 years",
+                "90 - 94 years",
+                "95 - 99 years",
+                "100 - 104 years",
+                "105 - 109 years",
+                "110 - 114 years",
+                "115 - 119 years",
+                "120 - 124 years",
+                "125 years and over",
+                "Age not stated"
+            ]
+        },
+        "age_recode_27": {
+            "loc": 77,
+            "size": 2,
+            "type": "enum",
+            "values": [
+                "Under 1 month (includes not stated weeks, days, hours, and minutes)",
+                "1 month - 11 months (includes not stated months)",
+                "1 year",
+                "2 years",
+                "3 years",
+                "4 years",
+                "5 - 9 years",
+                "10 - 14 years",
+                "15 - 19 years",
+                "20 - 24 years",
+                "25 - 29 years",
+                "30 - 34 years",
+                "35 - 39 years",
+                "40 - 44 years",
+                "45 - 49 years",
+                "50 - 54 years",
+                "55 - 59 years",
+                "60 - 64 years",
+                "65 - 69 years",
+                "70 - 74 years",
+                "75 - 79 years",
+                "80 - 84 years",
+                "85 - 89 years",
+                "90 - 94 years",
+                "95 - 99 years",
+                "100 years and over",
+                "Age not stated" 
+            ]
+        },
+        "age_recode_12": {
+            "loc": 79,
+            "size": 2,
+            "type": "enum",
+            "values": [
+                "Under 1 year (includes not stated infant ages)",
+                "1 - 4 years",
+                "5 - 14 years",
+                "15 - 24 years",
+                "25 - 34 years",
+                "35 - 44 years",
+                "45 - 54 years",
+                "55 - 64 years",
+                "65 - 74 years",
+                "75 - 84 years",
+                "85 years and over",
+                "Age not stated"
+            ]
+        },
+        "infant_age_recode_22": {
+            "loc": 81,
+            "size": 2,
+            "type": "enum-blank",
+            "values": [
+                "Age 1 year and over or not stated",
+                "Under 1 hour (includes not stated hours and minutes)",
+                "1 - 23 hours",
+                "1 day (includes not stated days)",
+                "2 days",
+                "3 days",
+                "4 days",
+                "5 days",
+                "6 days",
+                "7-13 days (includes not stated weeks)",
+                "14 - 20 days",
+                "21 - 27 days",
+                "1 month (includes not stated months)",
+                "2 months",
+                "3 months",
+                "4 months",
+                "5 months",
+                "6 months",
+                "7 months",
+                "8 months",
+                "9 months",
+                "10 months",
+                "11 months"
+            ]
+        },
+        "place_of_death": {
+            "loc": 83,
+            "size": 1,
+            "type": "code",
+            "values": {
+                "1": "Hospital, Clinic or Medical Center - Inpatient",
+                "2": "Hospital, Clinic or Medical Center - Outpatient or admitted to Emergency Room",
+                "3": "Hospital, Clinic or Medical Center - Dead on Arrival",
+                "4": "Decedent’s home",
+                "5": "Hospice facility",
+                "6": "Nursing home/long term care",
+                "7": "Other",
+                "9": "Place of death unknown"
+            }
+        },
+        "marital_status": {
+            "loc": 84,
+            "size": 1,
+            "type": "code",
+            "values": {
+                "S": "Never married, single",
+                "M": "Married",
+                "W": "Widowed",
+                "D": "Divorced",
+                "U": "Marital status unknown"
+            }
+        },
+        "day_of_week_of_death": {
+            "loc": 85,
+            "size": 1,
+            "type": "code",
+            "values": {
+                "1": "Sunday",
+                "2": "Monday",
+                "3": "Tuesday",
+                "4": "Wednesday",
+                "5": "Thurday",
+                "6": "Friday",
+                "7": "Saturday",
+                "9": "Unknown"
+            }
+        },
+        "current_year": {
+            "loc": 102,
+            "size": 4,
+            "type": "integer"
+        },
+        "injury_at_work": {
+            "loc": 106,
+            "size": 1,
+            "type": "code",
+            "values": {
+                "Y": "Yes",
+                "N": "No",
+                "U": "Unknown"
+            }
+        },
+        "manner_of_death": {
+            "loc": 107,
+            "size": 1,
+            "type": "enum-blank",
+            "values": [
+                "Not specified",
+                "Accident",
+                "Suicide",
+                "Homicide",
+                "Pending investigation",
+                "Could not determine",
+                "Self-Inflicted",
+                "Natural"
+            ]
+        },
+        "method_of_disposition": {
+            "loc": 108,
+            "size": 1,
+            "type": "code",
+            "values": {
+                "B": "Burial",
+                "C": "Cremation",
+                "D": "Donation",
+                "E": "Entombment",
+                "O": "Other",
+                "R": "Removal from jurisdiction",
+                "U": "Unknown"
+            }
+        },
+        "autopsy": {
+            "loc": 109,
+            "size": 1,
+            "type": "code",
+            "values": {
+                "Y": "Yes",
+                "N": "No",
+                "U": "Unknown"
+            }
+        },
+        "activity_code": {
+            "loc": 144,
+            "size": 1,
+            "type": "code",
+            "values": {
+                "0": "While engaged in sports activity",
+                "1": "While engaged in leisure activity",
+                "2": "While working for income",
+                "3": "While engaged in other types of work",
+                "4": "While resting, sleeping, eating (vital activities)",
+                "8": "While engaged in other specified activities",
+                "9": "During unspecified activity",
+                " ": "Not applicable"
+            }
+        },
+        "place_of_injury": {
+            "loc": 145,
+            "size": 1,
+            "type": "code",
+            "values": {
+                "0": "Home",
+                "1": "Residential institution",
+                "2": "School, other institution and public administrative area",
+                "3": "Sports and athletics area",
+                "4": "Street and highway",
+                "5": "Trade and service area",
+                "6": "Industrial and construction area",
+                "7": "Farm",
+                "8": "Other Specified Places",
+                "9": "Unspecified place",
+                " ": "Causes other than W00-Y34, except Y06.- and Y07.-"
+            }
+        },
+        "idc_code_10": {
+            "loc": 146,
+            "size": 4,
+            "type": "string",
+            "key_subst_file": "data/icd10cm-codes-2022.txt",
+            "key_subst_split": 8
+        },
+        "358_cause_recode": {
+            "loc": 150,
+            "size": 3,
+            "type": "integer",
+            "key_subst_file": "data/cause_of_death_358_rev10.txt",
+            "key_subst_split": 4
+        },
+        "113_cause_recode": {
+            "loc": 154,
+            "size": 3,
+            "type": "integer",
+            "key_subst_file": "data/cause_of_death_113_rev10.txt",
+            "key_subst_split": 4
+       },
+        "130_infant_cause_recode": {
+            "loc": 157,
+            "size": 3,
+            "type": "integer",
+            "key_subst_file": "data/cause_of_death_130_rev10.txt",
+            "key_subst_split": 4
+        },
+        "39_cause_recode": {
+            "loc": 160,
+            "size": 2,
+            "type": "integer",
+            "key_subst_file": "data/cause_of_death_39_rev10.txt",
+            "key_subst_split": 4
+       },
+        "num_entity_axis_conditions": {
+            "loc": 163,
+            "size": 2,
+            "type": "integer"
+        },
+        "num_record_axis_conditions": {
+            "loc": 341,
+            "size": 2,
+            "type": "integer"
+        },
+        "race_imputation_flag": {
+            "loc": 448,
+            "size": 1,
+            "type": "enum-blank",
+            "values": [
+                "Race is not imputed",
+                "Unknown race is imputed",
+                "All other races is imputed"
+            ]
+        },
+        "race_recode_6": {
+            "loc": 450,
+            "size": 1,
+            "type": "enum",
+            "values": [
+                "White (only)",
+                "Black (only)",
+                "American Indian and Alaska Native (only)",
+                "Asian (only)",
+                "Native Hawaiian or Other Pacific Islander (only)",
+                "More than one race"
+            ]
+        },
+        "hispanic_origin_race_recode": {
+            "loc": 487,
+            "size": 2,
+            "type": "enum",
+            "values": [
+                "Mexican",
+                "Puerto Rico",
+                "Cuban",
+                "Dominican",
+                "Central American",
+                "South American",
+                "Other or Unknown Hispanic",
+                "Non-Hispanic White (only)",
+                "Non-Hispanic Black (only)",
+                "Non-Hispanic American Indian and Alaska Native (only)",
+                "Non-Hispanic Asian (only)",
+                "Non-Hispanic Native Hawaiian or Other Pacific Islander (only)",
+                "Non-Hispanic more than one race",
+                "Hispanic origin unknown or not stated"
+            ]
+        },
+        "race_recode_40": {
+            "loc": 489,
+            "size": 2,
+            "type": "enum",
+            "values": [
+                "White",
+                "Black",
+                "American Indian and Alaskan Native (AIAN)",
+                "Asian Indian",
+                "Chinese",
+                "Filipino",
+                "Japanese",
+                "Korean",
+                "Vietnamese",
+                "Other or Multiple Asian",
+                "Hawaiian",
+                "Guamanian",
+                "Samoan",
+                "Other or Multiple Pacific Islander",
+                "Black and White",
+                "Black and AIAN",
+                "Black and Asian",
+                "Black and Native Hawaiian or Other Pacific Islander (NHOPI)",
+                "AIAN and White",
+                "AIAN and Asian",
+                "AIAN and NHOPI",
+                "Asian and White",
+                "Asian and NHOPI",
+                "NHOPI and White",
+                "Black, AIAN and White",
+                "Black, AIAN and Asian",
+                "Black, AIAN and NHOPI",
+                "Black, Asian and White",
+                "Black, Asian and NHOPI",
+                "Black, NHOPI and White",
+                "AIAN, Asian and White",
+                "AIAN, NHOPI and White",
+                "AIAN, Asian and NHOPI",
+                "Asian, NHOPI and White",
+                "Black, AIAN, Asian and White",
+                "Black, AIAN, Asian and NHOPI",
+                "Black, AIAN, NHOPI and White",
+                "Black, Asian, NHOPI and White",
+                "AIAN, Asian, NHOPI and White",
+                "Black, AIAN, Asian, NHOPI and White"
+            ]
+        }
+    }
+}

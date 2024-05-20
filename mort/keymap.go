@@ -1,4 +1,4 @@
-package keymap
+package mort
 
 import (
 	"bufio"
@@ -17,19 +17,19 @@ type KeyMapper interface {
 	Print()
 }
 
-type MapHolder struct {
+type KeyMap struct {
 	title  string
 	keymap map[string]string
 	split  int
 }
 
-func NewMap(filename string, split int) *MapHolder {
-	m := new(MapHolder)
+func NewKeyMap(filename string, split int) *KeyMap {
+	m := new(KeyMap)
 	m.LoadMap(filename, split)
 	return m
 }
 
-func (m *MapHolder) LoadMap(filename string, split int) {
+func (m *KeyMap) LoadMap(filename string, split int) {
 	fmt.Println("LoadMap() file_name=", filename, "split=", split)
 	file, err := os.Open(filename)
 	if err != nil {
@@ -50,15 +50,15 @@ func (m *MapHolder) LoadMap(filename string, split int) {
 	fmt.Println(len(m.keymap), "lines read.")
 }
 
-func (m MapHolder) GetDescription() string {
+func (m KeyMap) GetDescription() string {
 	return m.title
 }
 
-func (m MapHolder) Size() int {
+func (m KeyMap) Size() int {
 	return len(m.keymap)
 }
 
-func (m MapHolder) Print() {
+func (m KeyMap) Print() {
 	fmt.Println(m.title)
 	fmt.Println("size:", m.Size())
 	keys := []string{}
